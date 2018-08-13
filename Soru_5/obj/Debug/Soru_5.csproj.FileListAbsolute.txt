@@ -1,0 +1,10 @@
+C:\Users\Asus\Desktop\Mustafa_Dalga_100216054\Soru_5\Soru_5\obj\Debug\Soru_5.csprojResolveAssemblyReference.cache
+C:\Users\Asus\Desktop\Mustafa_Dalga_100216054\Soru_5\Soru_5\obj\Debug\Soru_5.Form1.resources
+C:\Users\Asus\Desktop\Mustafa_Dalga_100216054\Soru_5\Soru_5\obj\Debug\Soru_5.Properties.Resources.resources
+C:\Users\Asus\Desktop\Mustafa_Dalga_100216054\Soru_5\Soru_5\obj\Debug\Soru_5.csproj.GenerateResource.Cache
+C:\Users\Asus\Desktop\Mustafa_Dalga_100216054\Soru_5\Soru_5\obj\Debug\Soru_5.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Mustafa_Dalga_100216054\Soru_5\Soru_5\bin\Debug\Soru_5.exe.config
+C:\Users\Asus\Desktop\Mustafa_Dalga_100216054\Soru_5\Soru_5\bin\Debug\Soru_5.exe
+C:\Users\Asus\Desktop\Mustafa_Dalga_100216054\Soru_5\Soru_5\bin\Debug\Soru_5.pdb
+C:\Users\Asus\Desktop\Mustafa_Dalga_100216054\Soru_5\Soru_5\obj\Debug\Soru_5.exe
+C:\Users\Asus\Desktop\Mustafa_Dalga_100216054\Soru_5\Soru_5\obj\Debug\Soru_5.pdb
